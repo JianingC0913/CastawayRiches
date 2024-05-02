@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hook
+  - Fish
+  - Powerup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ocean
+  - title
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: sky
+    uniqueID: 1670860239
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 723714357
+    locked: 0
+  - name: bottom
+    uniqueID: 1589862753
+    locked: 0
+  - name: ocean
+    uniqueID: 2886030301
+    locked: 0
+  - name: boat
+    uniqueID: 262338419
+    locked: 0
+  - name: fish
+    uniqueID: 3247217539
+    locked: 0
+  - name: powerups
+    uniqueID: 778891485
+    locked: 0
+  - name: text
+    uniqueID: 3852066647
+    locked: 0
